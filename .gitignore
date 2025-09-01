@@ -1,0 +1,27 @@
+# JavaFX SDK (too large for Git)
+javafx-sdk-18.0.2/
+javafx-sdk.zip
+
+# Compiled class files
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# macOS
+.DS_Store
+
+# Build directories
+out/
+target/
+build/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
